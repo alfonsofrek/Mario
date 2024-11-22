@@ -1,0 +1,4967 @@
+fileFormatVersion: 2
+guid: 16cece56d578cf047a50a93289b1bcde
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3837
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898bf9a54fd2e68419469b748d6cd4e3
+      internalID: -1425384271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3837
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102b5631077d78b4e90f85c9414755ba
+      internalID: 496491663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_2
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 3837
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d2e92c4b38f4c4da471c416e7450ec
+      internalID: 235415983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_3
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 3837
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9aff3363067004d85e4e9268f380e2
+      internalID: -977152375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_4
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 3837
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0049891611b0ef749aa37659edfa15bc
+      internalID: 2086607546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_5
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 3837
+        width: 88
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491ff98d7cd4a564e935baa9f269b2cf
+      internalID: -1497606518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_6
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 3837
+        width: 88
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717060927157bcd4fb873e6cc7b97519
+      internalID: 1864501867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_7
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 3837
+        width: 88
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efff2eb0b1ba0204893153cf2d1c5824
+      internalID: -1594307937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_8
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 3837
+        width: 87
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3056bf81a931f944893b295636b9fd0d
+      internalID: -580157458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_9
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 3837
+        width: 88
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0661b6816357e3245ac124dfab57e3e8
+      internalID: -769129211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_10
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 3837
+        width: 88
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e05740d56ebb04cb155262cc7d22b1
+      internalID: -1881218699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_11
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 3837
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a98c84b557ba245a293b6f29fe12e4
+      internalID: 984611066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_12
+      rect:
+        serializedVersion: 2
+        x: 3157
+        y: 3837
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5510260ccc59e4e86460555d21097e
+      internalID: 124160053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_13
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 3837
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedaed28071d07f4da7371704b8cc98f
+      internalID: 1074359087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_14
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 3837
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b6107e3aa79c747baae029faeb77bd
+      internalID: 1064366289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_15
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 3837
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26168030a7180f49b69fe6715493094
+      internalID: 1428538826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3581
+        width: 90
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f196fb3fa022db48bb837bbac196f84
+      internalID: 813615403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 3581
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85b73b076635694e8c23121cacc3c0d
+      internalID: -468277196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_18
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 3581
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ae0be64fb18314e9b08a13a0f8257e
+      internalID: -1175528760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_19
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 3581
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882038219cf502c48ae53743998ae2b3
+      internalID: -732628264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_20
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 3581
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142e193a8a7cd7f4788ec91fc1eaa1a9
+      internalID: 896729586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_21
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3581
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a731a90c38f6b40958bcfe63e53fc2
+      internalID: -1429469128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_22
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 3581
+        width: 88
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718c2a813ed1b2848ac0b98b637e06af
+      internalID: 901687862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_23
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 3581
+        width: 88
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b986eb3d7694e4f8cb6e95f65047dd
+      internalID: -1422993162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_24
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 3581
+        width: 88
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffd910516f32ac469d4dcbe79f3c784
+      internalID: -1477953896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_25
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 3581
+        width: 88
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413b0dc3697450d478a933d2f48bd725
+      internalID: 2006419654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_26
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 3581
+        width: 87
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177b422ac8944e2439dd5187777a33dd
+      internalID: -1401195935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_27
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 3581
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4527f70b2fb64144baa6cf926048b21
+      internalID: -854089841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_28
+      rect:
+        serializedVersion: 2
+        x: 3157
+        y: 3581
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064086cb7be0ab044ab3870f567ff157
+      internalID: 581774054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_29
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 3581
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe6a370a0ad79d4eb66535b181bc90e
+      internalID: 1966422641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_30
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 3581
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f395148a1d54944585dbb67e7a21082
+      internalID: 863156994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_31
+      rect:
+        serializedVersion: 2
+        x: 3921
+        y: 3581
+        width: 90
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d2a25dfdc36884db3ecfb494b64bcc
+      internalID: 1438163006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3325
+        width: 90
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534ca64a6489bf0419464605f1dcfd73
+      internalID: -1057212595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_33
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 3325
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c36d135f8a0b54e9fbc7084e335c32
+      internalID: -1899954963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_34
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 3325
+        width: 96
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941619ddb20d5364d9c23df2e8bda49b
+      internalID: -1062434223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_35
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 3325
+        width: 102
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ab3b21a8233714fbc28206be3de8e7
+      internalID: 2014934878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_36
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 3325
+        width: 100
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd4c2120dab54f47b19d9ba9ffaebbd
+      internalID: 575753731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_37
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 3325
+        width: 94
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3739f5296e2a1c64db652c3ccccf47ac
+      internalID: 1469532172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_38
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 3325
+        width: 86
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17da7ea1729ab664abb69ec126c5ec9e
+      internalID: 1171349930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_39
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 3325
+        width: 88
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba9c266115cd8e40af6ada2e0ea6820
+      internalID: -1424367639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_40
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 3325
+        width: 102
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9819d235202f7874cabfd8ea4dd91bcc
+      internalID: -1902719569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_41
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 3325
+        width: 98
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc97022fb234c24ea31f20d65ce1a28
+      internalID: 1629514248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_42
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 3333
+        width: 104
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e93bd42a7a20744b9b0b6028363829a
+      internalID: 1561080171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_43
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 3331
+        width: 104
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bd1dbe74c6cd6458a494873fa642b0
+      internalID: -257639944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_44
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 3331
+        width: 106
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65674e4905f4144999c73fb6178f551
+      internalID: 1624028905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_45
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 3333
+        width: 104
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0385eede7cad55f4fa511a44cac7a389
+      internalID: 2106283448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_46
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3069
+        width: 86
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735989b60ea70fe4c9a0db790fae0cb5
+      internalID: -1043275161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_47
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3069
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effaebac2488fbe419b9207712e88840
+      internalID: -834393952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_48
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 3069
+        width: 98
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080e0d0230996ac479c661c6deabf887
+      internalID: -2128560099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_49
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 3069
+        width: 106
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac7818430e7c9c4e85134cce2b39be9
+      internalID: 1041799785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_50
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 3069
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6c260bec4b0c94ca03fef3b2617f7d
+      internalID: 63084588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_51
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 3069
+        width: 98
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027e16581c0555f47b1ea852828f645d
+      internalID: -1789869766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_52
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 3069
+        width: 90
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3417dc6ebe4cdd40ab9d0656f014beb
+      internalID: 1677941690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_53
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 3069
+        width: 94
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eff311a875be8f4e979532fee700d64
+      internalID: -1437587451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_54
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 3069
+        width: 100
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fd607bf279a5e418ab635887af3349
+      internalID: -224708250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_55
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 3069
+        width: 98
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105eabe161eb54a408c9108bb30858f3
+      internalID: -1160898072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_56
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 3077
+        width: 94
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ec5b35b3bf3a149b804ce4e7a8c97a
+      internalID: -219331216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_57
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 3079
+        width: 96
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62573737121432542bbb15024d36ac75
+      internalID: -273110615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_58
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 3081
+        width: 96
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1795cf2def7a944b888fd69edfcb22
+      internalID: 131433220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_59
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 3077
+        width: 94
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7faeb7f3970ac43940371c192fcb70
+      internalID: 1060311819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_60
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2813
+        width: 118
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8f8b07605c5324a84e8725e31f5f7a
+      internalID: -1653743089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_61
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2813
+        width: 100
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c103d0b25fc7d9b409d306c2a89c3418
+      internalID: -1437003045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_62
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2813
+        width: 98
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a004e715da223434eb887ecf7acddcb2
+      internalID: 1340131742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_63
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2813
+        width: 100
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b1ec5fa2ee0dd46ac452c751deea0d
+      internalID: -1177919567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_64
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 2819
+        width: 106
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd10ff5e87fd6484abba7f87a4825a1a
+      internalID: -2010627263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_65
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 2827
+        width: 116
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd468afbad790a0428c19479fd7366a0
+      internalID: -108778978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_66
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 2833
+        width: 120
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5c4239e0af5fa46b4aaf1f499e789e
+      internalID: 1381820662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_67
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 2829
+        width: 116
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b8143324b27654f8d03d830044d1b3
+      internalID: -977015475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_68
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 2815
+        width: 110
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b52dcc605ec654983f9f6e2a565f51
+      internalID: 221152799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_69
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 2813
+        width: 102
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0ef490fc397da4cb52d65d5df394c1
+      internalID: -1025624068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_70
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 2813
+        width: 104
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46259b03f8084f64bbce70556ebc45cc
+      internalID: -1125215886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_71
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 2813
+        width: 96
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafc8792aae272c4080d4426e5c2d1c3
+      internalID: 1935052563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_72
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 2817
+        width: 108
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41a6878f8f4f2546af5416945682d2f
+      internalID: 631864841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_73
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 2827
+        width: 116
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c4e9f1d43d525488afb92c5654a800
+      internalID: 339336732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_74
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 2835
+        width: 117
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7569e10e47b7f45882453688f4e949
+      internalID: 327736788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_75
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 2823
+        width: 116
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3f7ba2c7469d24e896fa8fda82521b
+      internalID: -1352084365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_76
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2557
+        width: 116
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9be33dffe92cc489b68c10b52445bc
+      internalID: -1712624798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_77
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2557
+        width: 102
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711b95c8b0078e5489b8fa7eb5173a76
+      internalID: 1953084675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_78
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2557
+        width: 94
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1077e5d9cbc6143b69fd2f67095e67
+      internalID: -968520558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_79
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2557
+        width: 102
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6669269d5a71b4f8c22658a337ff65
+      internalID: -1508084277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_80
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 2563
+        width: 106
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926587c6a407f9d4ea9cae736acd5420
+      internalID: -77157249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_81
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 2571
+        width: 112
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542f4077a01639d44a3a2b735ab5983a
+      internalID: -324313974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_82
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2577
+        width: 116
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360e60a0a4a83e5428a703ee050a6944
+      internalID: 1055136703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_83
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 2573
+        width: 114
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e1a6c106011614086070afd05d2c18
+      internalID: -396589062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_84
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 2559
+        width: 108
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a44133e293ae64a9d3c24941a949c9
+      internalID: 1086890312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_85
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 2557
+        width: 103
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b303136e02e336d44a37efa066aa086f
+      internalID: 869671021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_86
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 2557
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a239f0d5e9bca464889c0c4bbd8a6334
+      internalID: 278902255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_87
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 2557
+        width: 100
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccabd8c0f316b741bdf271c961a1396
+      internalID: 1049752616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_88
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 2561
+        width: 114
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a9c23a20120a047a9bac18f9135ee6
+      internalID: -1390184932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_89
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 2579
+        width: 120
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9999acab140bf82488da12b73ae2f474
+      internalID: 276914735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_90
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 2579
+        width: 118
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771defb860061fc4386a3818ab7f690b
+      internalID: -1034682984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_91
+      rect:
+        serializedVersion: 2
+        x: 3891
+        y: 2567
+        width: 116
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e46a972fc370c47b96be67589e8b0b
+      internalID: 2020659526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_92
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2301
+        width: 118
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccad5d8f75b2dc4eb2301fb245bc703
+      internalID: -1697440833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_93
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2301
+        width: 108
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c527c1ef743e0458b335704916641e
+      internalID: -1915706548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_94
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2301
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219ab9817c79a9f49883f0483e1b9810
+      internalID: -472462685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_95
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 2310
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6952cbbeebd09e149aa6a1b81e5ad193
+      internalID: -1400720108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_96
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 2315
+        width: 132
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1bd48d88d702940afe92803fa5f3c9
+      internalID: -1439240209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_97
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 2309
+        width: 132
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1bba4e506bd8c47aabdd4c99204952
+      internalID: 678837111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_98
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 2301
+        width: 122
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9075ae5d7b2bc4d967e1b8085bc603
+      internalID: 296583689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_99
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 2301
+        width: 114
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ad997b9d9fd244fae634a1737d6b31
+      internalID: 1749032878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_100
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 2301
+        width: 104
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c51ffe301a343149b6c4e900b83b94c
+      internalID: -1030967687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_101
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 2301
+        width: 122
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a8b6c98bfbd654297728a311393278
+      internalID: 1717509953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_102
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 2309
+        width: 130
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d656ccb3af3626642ab6b966af818b2d
+      internalID: -307889269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_103
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 2315
+        width: 132
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eaed761028efe46aaff90ce193fb1e
+      internalID: -2015443784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_104
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 2311
+        width: 130
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68727be160e7644eb42b75fc855ef78
+      internalID: -310060905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_105
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 2305
+        width: 124
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f402184cb39fd8429b728cfac6f84a1
+      internalID: 1651861160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_106
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 2301
+        width: 122
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dd77836c6720744a114d19fc1976f3
+      internalID: 1492943161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_107
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 2301
+        width: 118
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1900e0b957fba48bb205651f6b1dc1
+      internalID: 1405576873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_108
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2045
+        width: 114
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075c637ac9287df45956f2311370b9e4
+      internalID: 304717860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_109
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2045
+        width: 112
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377531be66257a34eb625a74df3d8487
+      internalID: 1843428378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_110
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2045
+        width: 124
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bec29cb388c8949bf0485370c32b82
+      internalID: -1764720084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_111
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2054
+        width: 132
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e4e95de2d8f0840935cfc543b809e4
+      internalID: -137712726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_112
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2059
+        width: 136
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeddc5c0d8fa7334b926157813a2d024
+      internalID: -1447520919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_113
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 2053
+        width: 130
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564fd08cdfd271c4ea2995c901693101
+      internalID: 1408635402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_114
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 2045
+        width: 122
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72874dbae9fa7645ad3f90a1f727a6d
+      internalID: 2053573694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_115
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 2045
+        width: 116
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8a97e4f57279e479db77175a1070b8
+      internalID: 390405231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_116
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 2045
+        width: 104
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf39bc1c7150a9e47922568775b0c720
+      internalID: 136923711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_117
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 2045
+        width: 120
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7779b4527cc834249af31eb8c845437b
+      internalID: 327345405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_118
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 2053
+        width: 124
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae72344cbb4696409a3b3f680726798
+      internalID: 474500268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_119
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 2059
+        width: 128
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6606216e6f238c242b0d83232f5f9bed
+      internalID: -1576021712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_120
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 2055
+        width: 126
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682793d300f8e3146935fbd2540829b7
+      internalID: 101290277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_121
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 2049
+        width: 124
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbb577c0dbcab94789c55875b848a5b
+      internalID: -518473682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_122
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 2045
+        width: 120
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9685ca6e3ae55e44a41356a295e8bee
+      internalID: -455522265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_123
+      rect:
+        serializedVersion: 2
+        x: 3891
+        y: 2045
+        width: 114
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abcb0eeadf57324b93e9afaf3f869b7
+      internalID: -968293876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_124
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1789
+        width: 104
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46192439d831edb48b67a775fe57f420
+      internalID: -278044746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_125
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1789
+        width: 104
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25515f337fd543b4cb1370a5157fb5b8
+      internalID: -418198896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_126
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1789
+        width: 103
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e546fc901980a964abd9440f5532c886
+      internalID: 1228899528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_127
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1789
+        width: 102
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22891cf72726e8b428f48611970ff647
+      internalID: -589185317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_128
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1789
+        width: 100
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9d03b3f22d7d748a6a71fbdf3bc4e6
+      internalID: -582060309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_129
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1789
+        width: 100
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e928d69b4aad5d84ca317f1d8c3a4887
+      internalID: 809441366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_130
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1789
+        width: 98
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c86cdc25a900094d87ebfa92ae9fec9
+      internalID: -375364194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_131
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 1789
+        width: 98
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac201b6aea714974aae3ddd2ca03a403
+      internalID: -368940814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_132
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1789
+        width: 98
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c48d0728d9cf54eac06fb8ba6f5321
+      internalID: -228713672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_133
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 1789
+        width: 98
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0ade3934eb25047aa9d355584456d6
+      internalID: -2002466210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_134
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 1789
+        width: 100
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3196d2da4b5fe74db76a6615bd1dee1
+      internalID: -843890163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_135
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 1789
+        width: 100
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4afffa71a6d6964488bae1aee4753c4
+      internalID: 700775117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_136
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 1789
+        width: 102
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583e843738bce304f96f3affede9288a
+      internalID: -975355425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_137
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 1789
+        width: 102
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4971a1f5cd627541aa30a6c6719773b
+      internalID: -523070321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_138
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 1789
+        width: 104
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb83af5a1c7d7ee43a6c61969a3e292d
+      internalID: 1260752017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_139
+      rect:
+        serializedVersion: 2
+        x: 3939
+        y: 1789
+        width: 104
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e750228b64da7174fadbf954162d8890
+      internalID: -846658526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_140
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1533
+        width: 102
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b3840fde929ab4b970b81440388d54
+      internalID: 670349532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_141
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1533
+        width: 100
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e23494f367d67548a62899a3a378d68
+      internalID: -156111648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_142
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1533
+        width: 100
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42186b5c7886564e9e2ff40fb5b02eb
+      internalID: -910504246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_143
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1533
+        width: 100
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d126c5600d19d43bfd12c77e5bc0cf
+      internalID: -273410709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_144
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1533
+        width: 100
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fd7ac16ef59a04ca816bad5b876df8
+      internalID: 1502836980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_145
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1533
+        width: 100
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d1f767ef9f9f54e84e0f596d22deb2
+      internalID: 556391479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_146
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1533
+        width: 98
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab5db825bf2c89459f294bafdf536e0
+      internalID: -572852999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_147
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1533
+        width: 98
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6763733d85bfa49b37d89a3490be9f
+      internalID: -2009367338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_148
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 1533
+        width: 98
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7641649a23f584e8b95c717e70264d
+      internalID: 422542894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_149
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1533
+        width: 98
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598f4d062bd7dda45bf250983404bdd2
+      internalID: 1424315785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_150
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1533
+        width: 100
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de5ed43bb59f48429949074b512202a
+      internalID: -98390913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_151
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 1533
+        width: 100
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fc0e9c2aea17347844ce76f7167c12
+      internalID: -553023161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_152
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 1533
+        width: 100
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02dffa85d56c7d4db5d010b19c639d8
+      internalID: 523644111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_153
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 1533
+        width: 100
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa53fa060551e5429500f47c366424c
+      internalID: -168023350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_154
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 1533
+        width: 100
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13e2aece2a2b3242aa3316c1e8aa2a7
+      internalID: 532404471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_155
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 1533
+        width: 102
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeee0534f9cc1f4487e632ae2aca0be
+      internalID: 218362616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_156
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1277
+        width: 86
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c234d0beafc671e40826cacea1c817f6
+      internalID: -581725140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_157
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1285
+        width: 90
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f79dba394f3e7b4a8f5b23f6fc8c227
+      internalID: -1849265345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_158
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1283
+        width: 96
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5e3bf6d1bfd5f41bd0066741c9a432
+      internalID: -1155194608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_159
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1285
+        width: 106
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a166a87a6ec8bb44fbd9328936ea6ad8
+      internalID: -489440708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_160
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1287
+        width: 104
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ce6d193291e144cae1fd4427bc1cac
+      internalID: 176203996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_161
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1289
+        width: 102
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9bbbe9f0f813644bd53703b7900df8
+      internalID: 348640427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_162
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1285
+        width: 100
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b097b8106fb9d43b526084a7771c87
+      internalID: -1062775554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_163
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1283
+        width: 100
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65884ed5b4bd67a4ea606a537f1b9bad
+      internalID: -1222875068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_164
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1285
+        width: 96
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4807d4c34238f9a41bb78daf0fd82f10
+      internalID: -82936803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_165
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 1283
+        width: 98
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02728ed97c41a894bab0b19e93899181
+      internalID: -1791525655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_166
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 1281
+        width: 100
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d79c5c1d410d84cb748bf281999a90
+      internalID: -526693568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_167
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 1277
+        width: 90
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf9abb20343cd549b4e5a3761a45ba7
+      internalID: 428024897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_168
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 1283
+        width: 100
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2b2a02081416d42bac5b9757ebc6ee
+      internalID: 1930673348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_169
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 1281
+        width: 102
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdc490643569794495982f3b1688f53
+      internalID: -2131312841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_170
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 1281
+        width: 102
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e822ddd209c7f164e95414f75fc75e2e
+      internalID: -1473077563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_171
+      rect:
+        serializedVersion: 2
+        x: 3897
+        y: 1283
+        width: 100
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1722c3632f0fd2c4589d6dacb51668de
+      internalID: -995736683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_172
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1021
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969f3d19e5bf47542870c64cd359650a
+      internalID: -187351788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_173
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1029
+        width: 96
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e9e33b53d51f14bb47cf81b37d101e
+      internalID: 515842226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_174
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1027
+        width: 94
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2df10588af827149a17fd94e0ce2537
+      internalID: 695050125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_175
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1029
+        width: 94
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a091c92ee96b92646ab7929e5975d49f
+      internalID: 1928702167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_176
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1031
+        width: 96
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffd1fc39cb713e4bb258a66cdefce85
+      internalID: -709014802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_177
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1033
+        width: 96
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbefc7f1ad9d854bbeb999a7fbbf935
+      internalID: 1027003709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_178
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1029
+        width: 94
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4ff14f325c63745b27b32e18cd4663
+      internalID: -1263432302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_179
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1027
+        width: 94
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc8d41885a570f4ca1e2d5f3bd990f0
+      internalID: -299441844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_180
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1029
+        width: 92
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b77000a13e69e44b38e05c4c2ed279
+      internalID: -1735281899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_181
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 1027
+        width: 94
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6669fd9cff7721b45a52b21feadefec8
+      internalID: 1611970294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_182
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 1025
+        width: 92
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9925a90358db2f946bd3443c3d0a62b4
+      internalID: 668767277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_183
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 1021
+        width: 86
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed6004ec262b6d41b31c7c0bf2a417f
+      internalID: 1168372564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_184
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 1027
+        width: 100
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8416e53a07526f842afffa54a79514bd
+      internalID: -962920728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_185
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 1025
+        width: 102
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68955a63c015a4d4cb988b8b1de31af6
+      internalID: 460786943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_186
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 1025
+        width: 102
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14733a7eb4957a7499f434e5defa359f
+      internalID: -243659002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_187
+      rect:
+        serializedVersion: 2
+        x: 3939
+        y: 1027
+        width: 100
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce34bfd181832a4baa947b214975832
+      internalID: 925570118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_188
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 765
+        width: 86
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eff31c62fc19a14a993576802060c7b
+      internalID: 1189283742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_189
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 817
+        width: 107
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df211e141b325d64aa69b94f3ff068d7
+      internalID: -1893855735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_190
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 819
+        width: 128
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123f72c9b3c95354f99ac078979b48ff
+      internalID: -1014225804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_191
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 819
+        width: 168
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31d7cce044d7f2488b695c2392c0410
+      internalID: 53733385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_192
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 831
+        width: 192
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b099fde0173df50458115f8a2f156caf
+      internalID: -1215651595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_193
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 803
+        width: 180
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798c0124a6fba04438438d90d0757711
+      internalID: -1660818693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_194
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 769
+        width: 134
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51c2482df8ff8d498c306d050f7f663
+      internalID: 1914161153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_195
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 767
+        width: 102
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6d495bba4ed8748bf5fdc53cb74379
+      internalID: -1397689279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_196
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 781
+        width: 146
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fba363021995af4bac6cf95c6c5add0
+      internalID: 1532395569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_197
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 803
+        width: 182
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06fec8537c21cf4fafc8733974ccd45
+      internalID: -922439121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_198
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 821
+        width: 188
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf6581387b64b6449023b653a23da95
+      internalID: 593463319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_199
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 827
+        width: 178
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abbe76dad392af44ba8b1559763e229
+      internalID: 1213406410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_200
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 821
+        width: 165
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d276ae043be1d74889ecc2436e539f4
+      internalID: -1186725990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_201
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 809
+        width: 136
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1be256dabdee8d4ba07750375773056
+      internalID: -1132826229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_202
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 789
+        width: 116
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c0ee1cc8624974bb6b1fd93c96edd0
+      internalID: 1314347560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_203
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 779
+        width: 88
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d374f447137f10f41867986fd06ccc78
+      internalID: 652554232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_204
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 509
+        width: 88
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3893948e19452458e78c751e77e35d
+      internalID: 1915212082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_205
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 563
+        width: 96
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5651a474182d3e64895c4b67a3b82ca7
+      internalID: -1433712414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_206
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 571
+        width: 130
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90af01eba9b3f44da2b8aae623e4bc9
+      internalID: -1080528718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_207
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 587
+        width: 156
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726605c035b09c345acaf1c0215cead7
+      internalID: 1840194139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_208
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 603
+        width: 180
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2152b2ac61ad004f9482ff0f4b96819
+      internalID: -432485417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_209
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 577
+        width: 192
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730dfc85b32b814488147bb9a3b2dde0
+      internalID: 1275523298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_210
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 547
+        width: 172
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d5e97bbb572d44d91fc8b439c6d4c1
+      internalID: -10221748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_211
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 525
+        width: 126
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dfa704d5af8be4086b66132ed94aaf
+      internalID: 99049084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_212
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 509
+        width: 104
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb8e2d4568a9204e918797f0acf6f1d
+      internalID: 918395279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_213
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 533
+        width: 150
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb78bb564b206c458384d699e50489c
+      internalID: 625119970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_214
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 579
+        width: 186
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb19e18968b315c4c8d276e4eb09868a
+      internalID: 2066549803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_215
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 605
+        width: 184
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f4fbd02a55ecb4a876b0c62fc05000
+      internalID: -1711387945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_216
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 595
+        width: 178
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b1f25de9205ed4087593a53a12fd80
+      internalID: 739150020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_217
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 579
+        width: 170
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c8368697ac00c448657b7c5acb9b5a
+      internalID: -1099045296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_218
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 549
+        width: 146
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66cacf5b0744db4fbbe45d0dfa3634f
+      internalID: 701687539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_animation_sprite_sheet_outlined_219
+      rect:
+        serializedVersion: 2
+        x: 3923
+        y: 527
+        width: 100
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d14ae998d7b884b813db4a2c782a18
+      internalID: -1820825414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mario_animation_sprite_sheet_outlined_0: -1425384271
+      mario_animation_sprite_sheet_outlined_1: 496491663
+      mario_animation_sprite_sheet_outlined_10: -1881218699
+      mario_animation_sprite_sheet_outlined_100: -1030967687
+      mario_animation_sprite_sheet_outlined_101: 1717509953
+      mario_animation_sprite_sheet_outlined_102: -307889269
+      mario_animation_sprite_sheet_outlined_103: -2015443784
+      mario_animation_sprite_sheet_outlined_104: -310060905
+      mario_animation_sprite_sheet_outlined_105: 1651861160
+      mario_animation_sprite_sheet_outlined_106: 1492943161
+      mario_animation_sprite_sheet_outlined_107: 1405576873
+      mario_animation_sprite_sheet_outlined_108: 304717860
+      mario_animation_sprite_sheet_outlined_109: 1843428378
+      mario_animation_sprite_sheet_outlined_11: 984611066
+      mario_animation_sprite_sheet_outlined_110: -1764720084
+      mario_animation_sprite_sheet_outlined_111: -137712726
+      mario_animation_sprite_sheet_outlined_112: -1447520919
+      mario_animation_sprite_sheet_outlined_113: 1408635402
+      mario_animation_sprite_sheet_outlined_114: 2053573694
+      mario_animation_sprite_sheet_outlined_115: 390405231
+      mario_animation_sprite_sheet_outlined_116: 136923711
+      mario_animation_sprite_sheet_outlined_117: 327345405
+      mario_animation_sprite_sheet_outlined_118: 474500268
+      mario_animation_sprite_sheet_outlined_119: -1576021712
+      mario_animation_sprite_sheet_outlined_12: 124160053
+      mario_animation_sprite_sheet_outlined_120: 101290277
+      mario_animation_sprite_sheet_outlined_121: -518473682
+      mario_animation_sprite_sheet_outlined_122: -455522265
+      mario_animation_sprite_sheet_outlined_123: -968293876
+      mario_animation_sprite_sheet_outlined_124: -278044746
+      mario_animation_sprite_sheet_outlined_125: -418198896
+      mario_animation_sprite_sheet_outlined_126: 1228899528
+      mario_animation_sprite_sheet_outlined_127: -589185317
+      mario_animation_sprite_sheet_outlined_128: -582060309
+      mario_animation_sprite_sheet_outlined_129: 809441366
+      mario_animation_sprite_sheet_outlined_13: 1074359087
+      mario_animation_sprite_sheet_outlined_130: -375364194
+      mario_animation_sprite_sheet_outlined_131: -368940814
+      mario_animation_sprite_sheet_outlined_132: -228713672
+      mario_animation_sprite_sheet_outlined_133: -2002466210
+      mario_animation_sprite_sheet_outlined_134: -843890163
+      mario_animation_sprite_sheet_outlined_135: 700775117
+      mario_animation_sprite_sheet_outlined_136: -975355425
+      mario_animation_sprite_sheet_outlined_137: -523070321
+      mario_animation_sprite_sheet_outlined_138: 1260752017
+      mario_animation_sprite_sheet_outlined_139: -846658526
+      mario_animation_sprite_sheet_outlined_14: 1064366289
+      mario_animation_sprite_sheet_outlined_140: 670349532
+      mario_animation_sprite_sheet_outlined_141: -156111648
+      mario_animation_sprite_sheet_outlined_142: -910504246
+      mario_animation_sprite_sheet_outlined_143: -273410709
+      mario_animation_sprite_sheet_outlined_144: 1502836980
+      mario_animation_sprite_sheet_outlined_145: 556391479
+      mario_animation_sprite_sheet_outlined_146: -572852999
+      mario_animation_sprite_sheet_outlined_147: -2009367338
+      mario_animation_sprite_sheet_outlined_148: 422542894
+      mario_animation_sprite_sheet_outlined_149: 1424315785
+      mario_animation_sprite_sheet_outlined_15: 1428538826
+      mario_animation_sprite_sheet_outlined_150: -98390913
+      mario_animation_sprite_sheet_outlined_151: -553023161
+      mario_animation_sprite_sheet_outlined_152: 523644111
+      mario_animation_sprite_sheet_outlined_153: -168023350
+      mario_animation_sprite_sheet_outlined_154: 532404471
+      mario_animation_sprite_sheet_outlined_155: 218362616
+      mario_animation_sprite_sheet_outlined_156: -581725140
+      mario_animation_sprite_sheet_outlined_157: -1849265345
+      mario_animation_sprite_sheet_outlined_158: -1155194608
+      mario_animation_sprite_sheet_outlined_159: -489440708
+      mario_animation_sprite_sheet_outlined_16: 813615403
+      mario_animation_sprite_sheet_outlined_160: 176203996
+      mario_animation_sprite_sheet_outlined_161: 348640427
+      mario_animation_sprite_sheet_outlined_162: -1062775554
+      mario_animation_sprite_sheet_outlined_163: -1222875068
+      mario_animation_sprite_sheet_outlined_164: -82936803
+      mario_animation_sprite_sheet_outlined_165: -1791525655
+      mario_animation_sprite_sheet_outlined_166: -526693568
+      mario_animation_sprite_sheet_outlined_167: 428024897
+      mario_animation_sprite_sheet_outlined_168: 1930673348
+      mario_animation_sprite_sheet_outlined_169: -2131312841
+      mario_animation_sprite_sheet_outlined_17: -468277196
+      mario_animation_sprite_sheet_outlined_170: -1473077563
+      mario_animation_sprite_sheet_outlined_171: -995736683
+      mario_animation_sprite_sheet_outlined_172: -187351788
+      mario_animation_sprite_sheet_outlined_173: 515842226
+      mario_animation_sprite_sheet_outlined_174: 695050125
+      mario_animation_sprite_sheet_outlined_175: 1928702167
+      mario_animation_sprite_sheet_outlined_176: -709014802
+      mario_animation_sprite_sheet_outlined_177: 1027003709
+      mario_animation_sprite_sheet_outlined_178: -1263432302
+      mario_animation_sprite_sheet_outlined_179: -299441844
+      mario_animation_sprite_sheet_outlined_18: -1175528760
+      mario_animation_sprite_sheet_outlined_180: -1735281899
+      mario_animation_sprite_sheet_outlined_181: 1611970294
+      mario_animation_sprite_sheet_outlined_182: 668767277
+      mario_animation_sprite_sheet_outlined_183: 1168372564
+      mario_animation_sprite_sheet_outlined_184: -962920728
+      mario_animation_sprite_sheet_outlined_185: 460786943
+      mario_animation_sprite_sheet_outlined_186: -243659002
+      mario_animation_sprite_sheet_outlined_187: 925570118
+      mario_animation_sprite_sheet_outlined_188: 1189283742
+      mario_animation_sprite_sheet_outlined_189: -1893855735
+      mario_animation_sprite_sheet_outlined_19: -732628264
+      mario_animation_sprite_sheet_outlined_190: -1014225804
+      mario_animation_sprite_sheet_outlined_191: 53733385
+      mario_animation_sprite_sheet_outlined_192: -1215651595
+      mario_animation_sprite_sheet_outlined_193: -1660818693
+      mario_animation_sprite_sheet_outlined_194: 1914161153
+      mario_animation_sprite_sheet_outlined_195: -1397689279
+      mario_animation_sprite_sheet_outlined_196: 1532395569
+      mario_animation_sprite_sheet_outlined_197: -922439121
+      mario_animation_sprite_sheet_outlined_198: 593463319
+      mario_animation_sprite_sheet_outlined_199: 1213406410
+      mario_animation_sprite_sheet_outlined_2: 235415983
+      mario_animation_sprite_sheet_outlined_20: 896729586
+      mario_animation_sprite_sheet_outlined_200: -1186725990
+      mario_animation_sprite_sheet_outlined_201: -1132826229
+      mario_animation_sprite_sheet_outlined_202: 1314347560
+      mario_animation_sprite_sheet_outlined_203: 652554232
+      mario_animation_sprite_sheet_outlined_204: 1915212082
+      mario_animation_sprite_sheet_outlined_205: -1433712414
+      mario_animation_sprite_sheet_outlined_206: -1080528718
+      mario_animation_sprite_sheet_outlined_207: 1840194139
+      mario_animation_sprite_sheet_outlined_208: -432485417
+      mario_animation_sprite_sheet_outlined_209: 1275523298
+      mario_animation_sprite_sheet_outlined_21: -1429469128
+      mario_animation_sprite_sheet_outlined_210: -10221748
+      mario_animation_sprite_sheet_outlined_211: 99049084
+      mario_animation_sprite_sheet_outlined_212: 918395279
+      mario_animation_sprite_sheet_outlined_213: 625119970
+      mario_animation_sprite_sheet_outlined_214: 2066549803
+      mario_animation_sprite_sheet_outlined_215: -1711387945
+      mario_animation_sprite_sheet_outlined_216: 739150020
+      mario_animation_sprite_sheet_outlined_217: -1099045296
+      mario_animation_sprite_sheet_outlined_218: 701687539
+      mario_animation_sprite_sheet_outlined_219: -1820825414
+      mario_animation_sprite_sheet_outlined_22: 901687862
+      mario_animation_sprite_sheet_outlined_23: -1422993162
+      mario_animation_sprite_sheet_outlined_24: -1477953896
+      mario_animation_sprite_sheet_outlined_25: 2006419654
+      mario_animation_sprite_sheet_outlined_26: -1401195935
+      mario_animation_sprite_sheet_outlined_27: -854089841
+      mario_animation_sprite_sheet_outlined_28: 581774054
+      mario_animation_sprite_sheet_outlined_29: 1966422641
+      mario_animation_sprite_sheet_outlined_3: -977152375
+      mario_animation_sprite_sheet_outlined_30: 863156994
+      mario_animation_sprite_sheet_outlined_31: 1438163006
+      mario_animation_sprite_sheet_outlined_32: -1057212595
+      mario_animation_sprite_sheet_outlined_33: -1899954963
+      mario_animation_sprite_sheet_outlined_34: -1062434223
+      mario_animation_sprite_sheet_outlined_35: 2014934878
+      mario_animation_sprite_sheet_outlined_36: 575753731
+      mario_animation_sprite_sheet_outlined_37: 1469532172
+      mario_animation_sprite_sheet_outlined_38: 1171349930
+      mario_animation_sprite_sheet_outlined_39: -1424367639
+      mario_animation_sprite_sheet_outlined_4: 2086607546
+      mario_animation_sprite_sheet_outlined_40: -1902719569
+      mario_animation_sprite_sheet_outlined_41: 1629514248
+      mario_animation_sprite_sheet_outlined_42: 1561080171
+      mario_animation_sprite_sheet_outlined_43: -257639944
+      mario_animation_sprite_sheet_outlined_44: 1624028905
+      mario_animation_sprite_sheet_outlined_45: 2106283448
+      mario_animation_sprite_sheet_outlined_46: -1043275161
+      mario_animation_sprite_sheet_outlined_47: -834393952
+      mario_animation_sprite_sheet_outlined_48: -2128560099
+      mario_animation_sprite_sheet_outlined_49: 1041799785
+      mario_animation_sprite_sheet_outlined_5: -1497606518
+      mario_animation_sprite_sheet_outlined_50: 63084588
+      mario_animation_sprite_sheet_outlined_51: -1789869766
+      mario_animation_sprite_sheet_outlined_52: 1677941690
+      mario_animation_sprite_sheet_outlined_53: -1437587451
+      mario_animation_sprite_sheet_outlined_54: -224708250
+      mario_animation_sprite_sheet_outlined_55: -1160898072
+      mario_animation_sprite_sheet_outlined_56: -219331216
+      mario_animation_sprite_sheet_outlined_57: -273110615
+      mario_animation_sprite_sheet_outlined_58: 131433220
+      mario_animation_sprite_sheet_outlined_59: 1060311819
+      mario_animation_sprite_sheet_outlined_6: 1864501867
+      mario_animation_sprite_sheet_outlined_60: -1653743089
+      mario_animation_sprite_sheet_outlined_61: -1437003045
+      mario_animation_sprite_sheet_outlined_62: 1340131742
+      mario_animation_sprite_sheet_outlined_63: -1177919567
+      mario_animation_sprite_sheet_outlined_64: -2010627263
+      mario_animation_sprite_sheet_outlined_65: -108778978
+      mario_animation_sprite_sheet_outlined_66: 1381820662
+      mario_animation_sprite_sheet_outlined_67: -977015475
+      mario_animation_sprite_sheet_outlined_68: 221152799
+      mario_animation_sprite_sheet_outlined_69: -1025624068
+      mario_animation_sprite_sheet_outlined_7: -1594307937
+      mario_animation_sprite_sheet_outlined_70: -1125215886
+      mario_animation_sprite_sheet_outlined_71: 1935052563
+      mario_animation_sprite_sheet_outlined_72: 631864841
+      mario_animation_sprite_sheet_outlined_73: 339336732
+      mario_animation_sprite_sheet_outlined_74: 327736788
+      mario_animation_sprite_sheet_outlined_75: -1352084365
+      mario_animation_sprite_sheet_outlined_76: -1712624798
+      mario_animation_sprite_sheet_outlined_77: 1953084675
+      mario_animation_sprite_sheet_outlined_78: -968520558
+      mario_animation_sprite_sheet_outlined_79: -1508084277
+      mario_animation_sprite_sheet_outlined_8: -580157458
+      mario_animation_sprite_sheet_outlined_80: -77157249
+      mario_animation_sprite_sheet_outlined_81: -324313974
+      mario_animation_sprite_sheet_outlined_82: 1055136703
+      mario_animation_sprite_sheet_outlined_83: -396589062
+      mario_animation_sprite_sheet_outlined_84: 1086890312
+      mario_animation_sprite_sheet_outlined_85: 869671021
+      mario_animation_sprite_sheet_outlined_86: 278902255
+      mario_animation_sprite_sheet_outlined_87: 1049752616
+      mario_animation_sprite_sheet_outlined_88: -1390184932
+      mario_animation_sprite_sheet_outlined_89: 276914735
+      mario_animation_sprite_sheet_outlined_9: -769129211
+      mario_animation_sprite_sheet_outlined_90: -1034682984
+      mario_animation_sprite_sheet_outlined_91: 2020659526
+      mario_animation_sprite_sheet_outlined_92: -1697440833
+      mario_animation_sprite_sheet_outlined_93: -1915706548
+      mario_animation_sprite_sheet_outlined_94: -472462685
+      mario_animation_sprite_sheet_outlined_95: -1400720108
+      mario_animation_sprite_sheet_outlined_96: -1439240209
+      mario_animation_sprite_sheet_outlined_97: 678837111
+      mario_animation_sprite_sheet_outlined_98: 296583689
+      mario_animation_sprite_sheet_outlined_99: 1749032878
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
